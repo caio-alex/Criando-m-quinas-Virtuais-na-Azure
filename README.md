@@ -1,1 +1,3 @@
 # Criando-m-quinas-Virtuais-na-Azure
+
+Para criar gratuitamente uma máquina virtual no Microsoft Azure, acesse o portal.azure.com, faça login e clique em "Criar um recurso". Escolha a opção "Máquina virtual" dentro da categoria Computação. No formulário de criação, selecione a assinatura gratuita e crie um grupo de recursos. Defina o nome da máquina, a região (como "Leste dos EUA"), e escolha a imagem Ubuntu ou Windows com a opção de tamanho gratuito, como a B1s, que está incluída no plano gratuito. Configure nome de usuário, senha ou chave SSH, revise as opções e clique em "Revisar + Criar", depois em "Criar" para iniciar a implantação. A máquina virtual estará disponível em alguns minutos, acessível via IP público.
